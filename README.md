@@ -27,7 +27,8 @@ Per-build polymorphism: Keys derived from __TIME__, __DATE__, __FILE__, __LINE__
 No CRT dependency: Works in kernel drivers, shellcode, anywhere
 
 Usage
-cpp#include "str.hpp"
+```
+#include "str.hpp"
 
 e_use("secret string", {
     printf("%s\n", it);
