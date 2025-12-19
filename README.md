@@ -1,6 +1,7 @@
 ## strcrypt
 Compile-time string encryption with forced secure patterns for C++17+
 What is the problem?
+
 #1 Strings
 
 Plain strings in binaries are trivially extractable with strings.exe, IDA, or any hex editor
