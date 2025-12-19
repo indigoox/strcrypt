@@ -1,4 +1,4 @@
-strcrypt
+## strcrypt
 Compile-time string encryption with forced secure patterns for C++17+
 What is the problem?
 #1 Strings
